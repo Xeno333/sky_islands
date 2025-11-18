@@ -1,2 +1,2 @@
-# sky_islands
+# Sky islands
 Lua mapgen for sky islands.
